@@ -1,2 +1,35 @@
-# advent-of-code
-2021 Advent of Code Solutions
+# 2021 Advent of Code Solutions
+
+- [x] Day 1
+  - [x] Part 1
+  - [x] Part 2
+- [x] Day 2
+  - [x] Part 1
+  - [x] Part 2
+- [x] Day 3
+  - [x] Part 1
+  - [x] Part 2
+- [x] Day 4
+  - [x] Part 1
+  - [x] Part 2
+- [ ] Day 5
+  - [x] Part 1
+  - [ ] Part 2
+- [ ] Day 6
+  - [x] Part 1
+  - [ ] Part 2 
+- [ ] Day 7
+  - [ ] Part 1
+  - [ ] Part 2 
+- [ ] Day 8
+  - [ ] Part 1
+  - [ ] Part 2 
+- [ ] Day 9
+  - [x] Part 1
+  - [ ] Part 2 
+- [ ] Day 10
+  - [ ] Part 1
+  - [ ] Part 2 
+- [x] Day 11
+  - [x] Part 1
+  - [x] Part 2 
