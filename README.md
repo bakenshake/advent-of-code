@@ -16,7 +16,7 @@
   - [x] Part 1
   - [ ] Part 2
 - [ ] Day 6
-  - [x] Part 1
+  - [x] [Part 1](https://github.com/bakenshake/advent-of-code/blob/main/6/AoC-6-1.py)
   - [ ] Part 2 
 - [ ] Day 7
   - [ ] Part 1
@@ -25,7 +25,7 @@
   - [ ] Part 1
   - [ ] Part 2 
 - [ ] Day 9
-  - [x] Part 1
+  - [x] [Part 1](https://github.com/bakenshake/advent-of-code/blob/main/9/AoC-9-1.py)
   - [ ] Part 2 
 - [ ] Day 10
   - [ ] Part 1
