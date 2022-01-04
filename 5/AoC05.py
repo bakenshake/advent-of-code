@@ -131,7 +131,7 @@ def count_lines(vents):
 
     return total
 
-my_string = input_as_string(r'C:\Users\Baken\Desktop\AoC-5-Test.txt')
+my_string = input_as_string(r'AoC-5.txt')
 coords = re.findall(r'-?\d+\,?\d*', my_string)
 vents = make_grid()
 
