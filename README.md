@@ -13,7 +13,7 @@
   - [x] Part 1
   - [x] Part 2
 - [ ] Day 5
-  - [x] Part 1
+  - [x] [Part 1](https://github.com/bakenshake/advent-of-code/blob/main/5/AoC05.py)
   - [ ] Part 2
 - [ ] Day 6
   - [x] [Part 1](https://github.com/bakenshake/advent-of-code/blob/main/6/AoC-6-1.py)
