@@ -1,8 +1,8 @@
 # 2021 Advent of Code Solutions
 
 - [x] Day 1
-  - [x] Part 1
-  - [x] Part 2
+  - [x] [Part 1](https://github.com/bakenshake/advent-of-code/blob/main/1/AoC-1.py)
+  - [x] [Part 2](https://github.com/bakenshake/advent-of-code/blob/main/1/AoC-1.py)
 - [x] Day 2
   - [x] Part 1
   - [x] Part 2
