@@ -9,11 +9,11 @@
 - [x] Day 3
   - [x] Part 1
   - [x] Part 2
-- [x] Day 4
+- [x] [Day 4](https://github.com/bakenshake/advent-of-code/blob/main/4/advent_of_code_4.py)
   - [x] Part 1
   - [x] Part 2
-- [ ] Day 5
-  - [x] [Part 1](https://github.com/bakenshake/advent-of-code/blob/main/5/AoC05.py)
+- [ ] [Day 5](https://github.com/bakenshake/advent-of-code/blob/main/5/AoC05.py)
+  - [x] Part 1
   - [ ] Part 2
 - [ ] Day 6
   - [x] [Part 1](https://github.com/bakenshake/advent-of-code/blob/main/6/AoC-6-1.py)
